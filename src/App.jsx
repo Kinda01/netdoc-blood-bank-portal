@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app">
       <div className="sidebar">
-        <h2>Transnet</h2>
+        <h2>Blood Bank Portal</h2>
         <a
           href="#patient-section"
           onClick={() => showSection('patient-section')}
